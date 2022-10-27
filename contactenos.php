@@ -32,44 +32,6 @@
                 }?>
             </div>
             <div class="card col-3" style="width: 18rem; background-color: #212121">
-                <img src="./imagenes/aye.jpeg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text descrip text-center">
-                        <b>Ayelén Calissi</b>
-                    </p>
-                    <p class="card-text descrip">
-                        <i>Estudiante del Instituto Tecnológico Beltrán, Desarrolladora Software</i></br>
-                    </p>
-                    <p class="card-text">
-                        <i class="fab fa-github fa-lg" style="color:#FFF"> </i>
-                        <a href="https://github.com/ayelencalissi" target="_blank" style="text-decoration:none;">AyelenCalissi</a>
-                    </p>
-                    <p>
-                        <i class="fab fa-instagram fa-lg" style="color:#c32aa3"></i>
-                        <a href="https://instagram.com/ayelencalissi" target="_blank" style="text-decoration:none;">@AyelenCalissi</a>
-                    </p>
-                </div>
-            </div>
-            <div class="card col-3" style="width: 18rem; background-color: #212121">
-                <img src="./imagenes/leo.jpeg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text descrip text-center">
-                        <b>Leonel Girett</b>
-                    </p>
-                    <p class="card-text descrip">
-                        <i>Estudiante del Instituto Tecnológico Beltrán, Desarrollador Software</i>
-                    </p>
-                    <p class="card-text">
-                        <i class="fab fa-github fa-lg" style="color:#FFF"> </i>
-                        <a href="https://github.com/leonel1414" target="_blank" style="text-decoration:none;">Leonel1414</a>
-                    </p>
-                    <p>
-                        <i class="fab fa-instagram fa-lg" style="color:#c32aa3"></i>
-                        <a href="https://instagram.com/leo.girett" target="_blank" style="text-decoration:none;">@Leo.girett</a>
-                    </p>
-                </div>
-            </div>
-            <div class="card col-3" style="width: 18rem; background-color: #212121">
                 <img src="./imagenes/franco.jpeg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <p class="card-text descrip text-center">
